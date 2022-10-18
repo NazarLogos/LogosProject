@@ -1,2 +1,2 @@
 # LogosProject
-My first project in git
+homework_13
